@@ -10,6 +10,11 @@
 
 ***
 
+### Who am I?
+
+***
+
+
 ### Why do we need good architecture?
 
 ---
@@ -24,6 +29,51 @@
 
 ### Good design patterns
 
+---
+
+### Repository pattern
+
+---
+
+### Factory
+
 ***
 
 ### Bad design patterns
+
+---
+
+### GOD object
+
+---
+
+### Singleton
+
+***
+
+### SOLID principles
+
+---
+
+### Single responsibility principle
+
+---
+
+
+### Open/closed principle
+
+---
+
+### Liskov substitution principle
+
+--- 
+
+### Interface segregation principle
+
+---
+
+### Dependency inversion principle
+
+***
+
+### Ending
